@@ -1,16 +1,13 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="realf4izan's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-<!--
-**realf4izan/realf4izan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Real F4izan • Faizan Baloch
 
-Here are some ideas to get you started:
+WordPress Security Researcher & Bug Bounty Hunter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Validated CVE-2026-131592 (AgeChecker stored XSS) | Patchstack researcher
+
+Website: https://faizanbaloch1.netlify.app | Email: realf4izan@gmail.com
