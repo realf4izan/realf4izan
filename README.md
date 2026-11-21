@@ -59,7 +59,7 @@ $ hunt()
 
 > **MENTORSHIP** — Teaching beginners that you don't need a laptop to start learning security. A phone and curiosity are enough.
 
-    </td>
+</td>
   </tr>
 </table>
 
