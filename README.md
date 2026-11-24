@@ -14,7 +14,7 @@
       <p><strong>WordPress Security Researcher &amp; Bug Bounty Hunter</strong></p>
       <p>I hunt vulnerabilities in WordPress plugins and themes — business logic, IDOR, auth bypass, payment &amp; checkout flaws — and report them responsibly, with proof.</p>
       <p>
-        🌐 <a href="https://faizanbaloch1.netlify.app">faizanbaloch1.netlify.app</a> &nbsp;·&nbsp;
+        🌐 <a href="https://realf4izan.github.io/portfolio/">realf4izan.github.io/portfolio</a> &nbsp;·&nbsp;
         ✉️ <a href="mailto:realf4izan@gmail.com">realf4izan@gmail.com</a> &nbsp;·&nbsp;
         📸 <a href="https://www.instagram.com/real_f4izan/">@real_f4izan</a>
       </p>
@@ -95,7 +95,7 @@ $ hunt()
 **Backend, Cloud &amp; AI**
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-0A0E1A?style=for-the-badge&logo=mariadb&logoColor=003545)
-![Netlify](https://img.shields.io/badge/Netlify-0A0E1A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0A0E1A?style=for-the-badge&logo=githubpages&logoColor=FFFFFF)
 ![WP-CLI](https://img.shields.io/badge/WP--CLI-0A0E1A?style=for-the-badge&logoColor=2E7DFF)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-0A0E1A?style=for-the-badge&logoColor=2E7DFF)
 
@@ -105,7 +105,7 @@ $ hunt()
 
 | Project | What it does | Focus |
 |---|---|---|
-| [faizanbaloch1.netlify.app](https://faizanbaloch1.netlify.app) | Personal site — research hub and portfolio | WordPress security |
+| [realf4izan.github.io/portfolio](https://realf4izan.github.io/portfolio/) | Personal site — research hub and portfolio | WordPress security |
 | **oneshot_recon.py** | OSINT dossier builder — scoped recon reports | Python · OSINT |
 | [realf4izan / realf4izan](https://github.com/realf4izan/realf4izan) | This profile — dark editorial README | GitHub profile |
 
@@ -161,7 +161,7 @@ If my open-source security work helps you, consider [sponsoring me on GitHub](ht
 
 |  |  |
 |---|---|
-| 🌐 Website | [faizanbaloch1.netlify.app](https://faizanbaloch1.netlify.app) |
+| 🌐 Website | [realf4izan.github.io/portfolio](https://realf4izan.github.io/portfolio/) |
 | ✉️ Email | [realf4izan@gmail.com](mailto:realf4izan@gmail.com) |
 | 📸 Instagram | [@real_f4izan](https://www.instagram.com/real_f4izan/) |
 | 💻 GitHub | [@realf4izan](https://github.com/realf4izan) |
